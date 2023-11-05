@@ -3,7 +3,7 @@
 # Description: Build OpenWrt
 #============================================================================================
 
-name: x86_docker
+name: docker_x86
 
 on:
   repository_dispatch:
