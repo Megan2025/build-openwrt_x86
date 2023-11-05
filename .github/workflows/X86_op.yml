@@ -3,7 +3,7 @@
 # Description: Build OpenWrt
 #============================================================================================
 
-name: X86_openwrt
+name: Build_X86 OpenWrt
 
 on:
   repository_dispatch:
